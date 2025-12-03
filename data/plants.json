@@ -1,1 +1,59 @@
+[
+  {
+    "id": 1,
+    "scientificName": "Ficus elastica",
+    "commonName": "Rubber Plant",
+    "family": "Moraceae",
+    "habitat": "Tropical",
+    "tags": ["indoor", "low light"],
+    "image": "images/ficus.jpg"
+  }
+]
 
+[
+  {
+    "id": 2,
+    "scientificName": "Ficus elastica",
+    "commonName": "Rubber Plant",
+    "family": "Moraceae",
+    "habitat": "Tropical",
+    "tags": ["indoor", "low light"],
+    "image": "images/ficus.jpg"
+  }
+]
+
+[
+  {
+    "id": 3,
+    "scientificName": "Ficus elastica",
+    "commonName": "Rubber Plant",
+    "family": "Moraceae",
+    "habitat": "Tropical",
+    "tags": ["indoor", "low light"],
+    "image": "images/ficus.jpg"
+  }
+]
+
+[
+  {
+    "id": 4,
+    "scientificName": "Ficus elastica",
+    "commonName": "Rubber Plant",
+    "family": "Moraceae",
+    "habitat": "Tropical",
+    "tags": ["indoor", "low light"],
+    "image": "images/ficus.jpg"
+  }
+]
+
+[
+  {
+    "id": 5,
+    "scientificName": "Ficus elastica",
+    "commonName": "Rubber Plant",
+    "family": "Moraceae",
+    "habitat": "Tropical",
+    "tags": ["indoor", "low light"],
+    "image": "images/ficus.jpg"
+  }
+]
