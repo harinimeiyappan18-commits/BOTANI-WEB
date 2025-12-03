@@ -6,54 +6,30 @@
     "family": "Moraceae",
     "habitat": "Tropical",
     "tags": ["indoor", "low light"],
-    "image": "images/ficus.jpg"
+    "image": "images/ficus.webp"
   }
 ]
 
 [
   {
     "id": 2,
-    "scientificName": "Ficus elastica",
-    "commonName": "Rubber Plant",
-    "family": "Moraceae",
-    "habitat": "Tropical",
-    "tags": ["indoor", "low light"],
-    "image": "images/ficus.jpg"
+    "scientificName": "Malus domestica",
+    "commonName": "Apple Tree",
+    "family": "Rosaceae",
+    "habitat": "Temperate",
+    "tags": ["outdoor", "full light"],
+    "image": "images/apple.jfif"
   }
 ]
 
 [
   {
     "id": 3,
-    "scientificName": "Ficus elastica",
-    "commonName": "Rubber Plant",
-    "family": "Moraceae",
-    "habitat": "Tropical",
-    "tags": ["indoor", "low light"],
-    "image": "images/ficus.jpg"
-  }
-]
-
-[
-  {
-    "id": 4,
-    "scientificName": "Ficus elastica",
-    "commonName": "Rubber Plant",
-    "family": "Moraceae",
-    "habitat": "Tropical",
-    "tags": ["indoor", "low light"],
-    "image": "images/ficus.jpg"
-  }
-]
-
-[
-  {
-    "id": 5,
-    "scientificName": "Ficus elastica",
-    "commonName": "Rubber Plant",
-    "family": "Moraceae",
-    "habitat": "Tropical",
-    "tags": ["indoor", "low light"],
-    "image": "images/ficus.jpg"
+    "scientificName": "Calotropis gigantea",
+    "commonName": "Milkweed",
+    "family": "Apocynaceae",
+    "habitat": "Wetlands",
+    "tags": ["outdoor", "partial or full light","colonized or disturbed areas"],
+    "image": "images/milkweed.jpg"
   }
 ]
