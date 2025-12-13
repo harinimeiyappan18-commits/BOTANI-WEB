@@ -205,3 +205,15 @@ body {
   transform: scale(1.05);
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
 }
+
+body {
+  background: linear-gradient(135deg, #e6f9e6, #c2f0c2, #b0e8b0);
+  background-size: 400% 400%;
+  animation: bgFlow 10s ease infinite;
+}
+
+@keyframes bgFlow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
